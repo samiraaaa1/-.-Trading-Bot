@@ -1,5 +1,4 @@
 # Crypto Trading Bot
-
 Automated trading bot for cryptocurrency markets.
 
 ## Features
