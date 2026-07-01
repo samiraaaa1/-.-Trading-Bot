@@ -5,7 +5,7 @@ Automated trading bot for cryptocurrency markets.
 - Multi-exchange support (Binance, Coinbase)
 - Grid trading strategy
 - Dollar-cost averaging
-- Stop-loss & take-profit
+- Stop- & take-profit
 - Real-time notifications
 ## Installation
 git clone https://github.com/username/crypto-trading-bot.git
